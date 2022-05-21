@@ -1,0 +1,60 @@
+C:\Users\kurs\Desktop\Tomasz\Dziedziczenie\Dziedziczenie\obj\Debug\Dziedziczenie.csprojAssemblyReference.cache
+C:\Users\kurs\Desktop\Tomasz\Dziedziczenie\Dziedziczenie\obj\Debug\Dziedziczenie.Form1.resources
+C:\Users\kurs\Desktop\Tomasz\Dziedziczenie\Dziedziczenie\obj\Debug\Dziedziczenie.Properties.Resources.resources
+C:\Users\kurs\Desktop\Tomasz\Dziedziczenie\Dziedziczenie\obj\Debug\Dziedziczenie.csproj.GenerateResource.cache
+C:\Users\kurs\Desktop\Tomasz\Dziedziczenie\Dziedziczenie\obj\Debug\Dziedziczenie.csproj.CoreCompileInputs.cache
+C:\Users\kurs\Desktop\Tomasz\Dziedziczenie\Dziedziczenie\bin\Debug\Dziedziczenie.exe.config
+C:\Users\kurs\Desktop\Tomasz\Dziedziczenie\Dziedziczenie\bin\Debug\Dziedziczenie.exe
+C:\Users\kurs\Desktop\Tomasz\Dziedziczenie\Dziedziczenie\bin\Debug\Dziedziczenie.pdb
+C:\Users\kurs\Desktop\Tomasz\Dziedziczenie\Dziedziczenie\obj\Debug\Dziedziczenie.exe
+C:\Users\kurs\Desktop\Tomasz\Dziedziczenie\Dziedziczenie\obj\Debug\Dziedziczenie.pdb
+C:\Users\kurs\Desktop\Marcin Gawron\Dziedziczenie\Dziedziczenie\obj\Debug\Dziedziczenie.csprojAssemblyReference.cache
+C:\Users\kurs\Desktop\Marcin Gawron\Dziedziczenie\Dziedziczenie\obj\Debug\Dziedziczenie.exe
+C:\Users\kurs\Desktop\Marcin Gawron\Dziedziczenie\Dziedziczenie\obj\Debug\Dziedziczenie.pdb
+C:\Users\kurs\Desktop\Marcin Gawron\Dziedziczenie\Dziedziczenie\bin\Debug\Dziedziczenie.exe.config
+C:\Users\kurs\Desktop\Marcin Gawron\Dziedziczenie\Dziedziczenie\bin\Debug\Dziedziczenie.exe
+C:\Users\kurs\Desktop\Marcin Gawron\Dziedziczenie\Dziedziczenie\bin\Debug\Dziedziczenie.pdb
+C:\Users\kurs\Desktop\Marcin Gawron\Dziedziczenie\Dziedziczenie\obj\Debug\Dziedziczenie.Form1.resources
+C:\Users\kurs\Desktop\Marcin Gawron\Dziedziczenie\Dziedziczenie\obj\Debug\Dziedziczenie.Properties.Resources.resources
+C:\Users\kurs\Desktop\Marcin Gawron\Dziedziczenie\Dziedziczenie\obj\Debug\Dziedziczenie.csproj.GenerateResource.cache
+C:\Users\kurs\Desktop\Marcin Gawron\Dziedziczenie\Dziedziczenie\obj\Debug\Dziedziczenie.csproj.CoreCompileInputs.cache
+C:\Users\marci\Desktop\Dziedziczenie\Dziedziczenie\bin\Debug\Dziedziczenie.exe.config
+C:\Users\marci\Desktop\Dziedziczenie\Dziedziczenie\bin\Debug\Dziedziczenie.exe
+C:\Users\marci\Desktop\Dziedziczenie\Dziedziczenie\bin\Debug\Dziedziczenie.pdb
+C:\Users\marci\Desktop\Dziedziczenie\Dziedziczenie\obj\Debug\Dziedziczenie.csproj.AssemblyReference.cache
+C:\Users\marci\Desktop\Dziedziczenie\Dziedziczenie\obj\Debug\Dziedziczenie.Form1.resources
+C:\Users\marci\Desktop\Dziedziczenie\Dziedziczenie\obj\Debug\Dziedziczenie.Properties.Resources.resources
+C:\Users\marci\Desktop\Dziedziczenie\Dziedziczenie\obj\Debug\Dziedziczenie.csproj.GenerateResource.cache
+C:\Users\marci\Desktop\Dziedziczenie\Dziedziczenie\obj\Debug\Dziedziczenie.csproj.CoreCompileInputs.cache
+C:\Users\marci\Desktop\Dziedziczenie\Dziedziczenie\obj\Debug\Dziedziczenie.exe
+C:\Users\marci\Desktop\Dziedziczenie\Dziedziczenie\obj\Debug\Dziedziczenie.pdb
+C:\Users\marci\Desktop\Programowanie aplikacji desktopowych\Dziedziczenie\Dziedziczenie\bin\Debug\Dziedziczenie.exe.config
+C:\Users\marci\Desktop\Programowanie aplikacji desktopowych\Dziedziczenie\Dziedziczenie\bin\Debug\Dziedziczenie.exe
+C:\Users\marci\Desktop\Programowanie aplikacji desktopowych\Dziedziczenie\Dziedziczenie\bin\Debug\Dziedziczenie.pdb
+C:\Users\marci\Desktop\Programowanie aplikacji desktopowych\Dziedziczenie\Dziedziczenie\obj\Debug\Dziedziczenie.csproj.AssemblyReference.cache
+C:\Users\marci\Desktop\Programowanie aplikacji desktopowych\Dziedziczenie\Dziedziczenie\obj\Debug\Dziedziczenie.Form1.resources
+C:\Users\marci\Desktop\Programowanie aplikacji desktopowych\Dziedziczenie\Dziedziczenie\obj\Debug\Dziedziczenie.Properties.Resources.resources
+C:\Users\marci\Desktop\Programowanie aplikacji desktopowych\Dziedziczenie\Dziedziczenie\obj\Debug\Dziedziczenie.csproj.GenerateResource.cache
+C:\Users\marci\Desktop\Programowanie aplikacji desktopowych\Dziedziczenie\Dziedziczenie\obj\Debug\Dziedziczenie.csproj.CoreCompileInputs.cache
+C:\Users\marci\Desktop\Programowanie aplikacji desktopowych\Dziedziczenie\Dziedziczenie\obj\Debug\Dziedziczenie.exe
+C:\Users\marci\Desktop\Programowanie aplikacji desktopowych\Dziedziczenie\Dziedziczenie\obj\Debug\Dziedziczenie.pdb
+C:\Users\marci\Desktop\14.05\Dziedziczenie\Dziedziczenie\bin\Debug\Dziedziczenie.exe.config
+C:\Users\marci\Desktop\14.05\Dziedziczenie\Dziedziczenie\bin\Debug\Dziedziczenie.exe
+C:\Users\marci\Desktop\14.05\Dziedziczenie\Dziedziczenie\bin\Debug\Dziedziczenie.pdb
+C:\Users\marci\Desktop\14.05\Dziedziczenie\Dziedziczenie\obj\Debug\Dziedziczenie.csproj.AssemblyReference.cache
+C:\Users\marci\Desktop\14.05\Dziedziczenie\Dziedziczenie\obj\Debug\Dziedziczenie.Form1.resources
+C:\Users\marci\Desktop\14.05\Dziedziczenie\Dziedziczenie\obj\Debug\Dziedziczenie.Properties.Resources.resources
+C:\Users\marci\Desktop\14.05\Dziedziczenie\Dziedziczenie\obj\Debug\Dziedziczenie.csproj.GenerateResource.cache
+C:\Users\marci\Desktop\14.05\Dziedziczenie\Dziedziczenie\obj\Debug\Dziedziczenie.csproj.CoreCompileInputs.cache
+C:\Users\marci\Desktop\14.05\Dziedziczenie\Dziedziczenie\obj\Debug\Dziedziczenie.exe
+C:\Users\marci\Desktop\14.05\Dziedziczenie\Dziedziczenie\obj\Debug\Dziedziczenie.pdb
+C:\Users\marci\Desktop\c# Projects\Dziedziczenie\Dziedziczenie\bin\Debug\Dziedziczenie.exe.config
+C:\Users\marci\Desktop\c# Projects\Dziedziczenie\Dziedziczenie\bin\Debug\Dziedziczenie.exe
+C:\Users\marci\Desktop\c# Projects\Dziedziczenie\Dziedziczenie\bin\Debug\Dziedziczenie.pdb
+C:\Users\marci\Desktop\c# Projects\Dziedziczenie\Dziedziczenie\obj\Debug\Dziedziczenie.csproj.AssemblyReference.cache
+C:\Users\marci\Desktop\c# Projects\Dziedziczenie\Dziedziczenie\obj\Debug\Dziedziczenie.Form1.resources
+C:\Users\marci\Desktop\c# Projects\Dziedziczenie\Dziedziczenie\obj\Debug\Dziedziczenie.Properties.Resources.resources
+C:\Users\marci\Desktop\c# Projects\Dziedziczenie\Dziedziczenie\obj\Debug\Dziedziczenie.csproj.GenerateResource.cache
+C:\Users\marci\Desktop\c# Projects\Dziedziczenie\Dziedziczenie\obj\Debug\Dziedziczenie.csproj.CoreCompileInputs.cache
+C:\Users\marci\Desktop\c# Projects\Dziedziczenie\Dziedziczenie\obj\Debug\Dziedziczenie.exe
+C:\Users\marci\Desktop\c# Projects\Dziedziczenie\Dziedziczenie\obj\Debug\Dziedziczenie.pdb
